@@ -4,7 +4,14 @@ IMPORTANT! THIS PROJECT ONLY WORKS WITH THE MANUFACTORING REPORT OF PROMOB, BUT 
 
 SCREENSHOTS
 ____________________________________________________________________________________________________________________________________
-![](src/images/screenshots/screenshot(82).png)
+![](Designed_Modules_Scanner/src/images/screenshots/screenshot(82).png)
+![](Designed_Modules_Scanner/src/images/screenshots/screenshot(83).png)
+![](Designed_Modules_Scanner/src/images/screenshots/screenshot(84).png)
+![](Designed_Modules_Scanner/src/images/screenshots/screenshot(85).png)
+![](Designed_Modules_Scanner/src/images/screenshots/screenshot(86).png)
+![](Designed_Modules_Scanner/src/images/screenshots/screenshot(87).png)
+![](Designed_Modules_Scanner/src/images/screenshots/screenshot(88).png)
+![](Designed_Modules_Scanner/src/images/screenshots/screenshot(89).png)
 ____________________________________________________________________________________________________________________________________
 The project verifies the integrity of the furniture before these detached parts go to build process in the client's property
 
