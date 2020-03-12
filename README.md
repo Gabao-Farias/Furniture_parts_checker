@@ -2,6 +2,9 @@
 
 IMPORTANT! THIS PROJECT ONLY WORKS WITH THE MANUFACTORING REPORT OF PROMOB, BUT IT COULD BE IMPROVED WITH A NEW ENVIRONMENT OF DATA.
 
+SCREENSHOTS
+____________________________________________________________________________________________________________________________________
+
 ____________________________________________________________________________________________________________________________________
 The project verifies the integrity of the furniture before these detached parts go to build process in the client's property
 
