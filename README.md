@@ -4,9 +4,6 @@ IMPORTANT! THIS PROJECT ONLY WORKS WITH THE MANUFACTORING REPORT OF PROMOB, BUT 
 
 SCREENSHOTS
 ____________________________________________________________________________________________________________________________________
-Designed_Modules_Scanner/src/images/Screenshots/Screenshot (82).png
-
-![alt text](https://raw.githubusercontent.com/Gabao-Farias/Furniture_parts_checker/branch/Designed_Modules_Scanner/src/images/Screenshots/Screenshot(82).png)
 ____________________________________________________________________________________________________________________________________
 The project verifies the integrity of the furniture before these detached parts go to build process in the client's property
 
