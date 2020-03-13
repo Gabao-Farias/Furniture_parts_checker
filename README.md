@@ -18,11 +18,14 @@ ________________________________________________________________________________
 This is a starter project to get experience in the developping world, but I would like to make this project useful for possible clients. I made this project for a custom-made furniture enterprise (Forma Sete), and it solves their problem of getting lack of parts when they go to the client's property to build the furniture. In resume this software checks if all the parts are ready to dispatch to the build process in client's property.
 
 # OPPORTUNITY
-This project can be converted to any model of enterprise wich needs a validation of parts, or stock checking wich have barcodes for control.
 
+  - [X] New implementations can be made in the project
+  - [X] It can run in any Operating System
+  - [X] It can be remodeled to any specific client
+  
 # HOW IT WORKS
 
-Obs. As it has been said before, this project was made for a specific problem, so the project will afford only the Promob users, like the Forma Sete enterprise.
+Obs. As it has been said before, this project has was made for a specific problem, so the project will works only the Promob users, like the Forma Sete enterprise.
 
 Screen 1 -> The main screen
   * There you can select a new PDF to start the verification or resume the last work that hasn't finished yet;
