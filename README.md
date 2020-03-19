@@ -20,7 +20,7 @@ This is a starter project to get experience in the developping world, but I woul
 # OPPORTUNITY
 
   - [X] New implementations can be made in the project
-  - [X] It can run in any Operating System
+  - [X] It can run in several Operating System
   - [X] It can be remodeled to any specific client
   
 # HOW IT WORKS
