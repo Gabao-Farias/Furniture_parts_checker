@@ -6,10 +6,22 @@
 
 <h3 align="center">⚠️ IMPORTANT! ⚠️</h3>
 
-ONLY PROMOB USERS WOULD BE ABLE TO USE IT, THIS PROJECT ONLY WORKS WITH THE MANUFACTORING REPORT OF PROMOB, BUT IT COULD BE IMPROVED FOR A NEW ENVIRONMENT OF DATA.
+Only **Promob** users would be able to use it, this project only works with the *manufactoring report* of Promob, but it can be improved for a new environment of data.
 
-SCREENSHOTS
-____________________________________________________________________________________________________________________________________
+## Summary
+* [About](#ℹ%EF%B8%8F-about)
+* [Screenshots](#%EF%B8%8F-screenshots)
+* [Features](#-features)
+* [Technologies](#%EF%B8%8F-technologies-involved)
+* [Platforms](#-platforms)
+* [Database Management](#-database-management)
+* [Requirements to Run](#%EF%B8%8F-requirements-to-run)
+
+
+### ℹ️ About
+This is a starter project to get experience in the developping world, but I would like to make this project useful for possible clients. I made this project for a custom-made furniture enterprise (Forma Sete), and it solves their problem of getting lack of parts when they go to the client's property to build the furniture. In resume this software checks if all the parts are ready to dispatch to the build process in client's property.
+
+### 🖼️ Screenshots
 ![](Designed_Modules_Scanner/src/images/screenshots/screenshot(82).png)
 ![](Designed_Modules_Scanner/src/images/screenshots/screenshot(83).png)
 ![](Designed_Modules_Scanner/src/images/screenshots/screenshot(84).png)
@@ -18,18 +30,13 @@ ________________________________________________________________________________
 ![](Designed_Modules_Scanner/src/images/screenshots/screenshot(87).png)
 ![](Designed_Modules_Scanner/src/images/screenshots/screenshot(88).png)
 ![](Designed_Modules_Scanner/src/images/screenshots/screenshot(89).png)
-____________________________________________________________________________________________________________________________________
 
-## About
-This is a starter project to get experience in the developping world, but I would like to make this project useful for possible clients. I made this project for a custom-made furniture enterprise (Forma Sete), and it solves their problem of getting lack of parts when they go to the client's property to build the furniture. In resume this software checks if all the parts are ready to dispatch to the build process in client's property.
-
-## Features
+### 🥏 Features
   - [X] New implementations can be made in the project
   - [X] It can run in several Operating System
   - [X] It can be remodeled to any specific client
   
-## Technologies involved
-
+### ⚙️ Technologies involved
 Obs. As it has been said before, this project has was made for a specific problem, so the project will works only the Promob users, like the Forma Sete enterprise.
 
 Screen 1 -> The main screen
@@ -44,9 +51,9 @@ Screen 3 -> The final screen
   * Yet it's just a screen wich indicates that the process of checking is complete;
   * There can have new implementations depending of what the users want;
   
-## Database management
+### 💾 Database management
 
-## Platforms
+### 🖥️ Platforms
 
-## Requirements to Run
+### ☑️ Requirements to Run
 
