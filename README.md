@@ -39,6 +39,7 @@ This is a starter project to get experience in the developping world, but I woul
    * [Andro Code Scanner](https://play.google.com/store/apps/details?id=az.android.remoteinput&hl=pt)
      * This app requires the installation of this one too, [Barcode Scanner](https://play.google.com/store/apps/details?id=com.google.zxing.client.android&hl=pt_BR)
    * You can operate it remotely
+ * As long as you scan, the parts scanned are removed from the table, displaying only what is left to verify, making it easier for the operator
   
 ### ⚙️ Technologies involved
 * [Java](https://www.java.com/pt_BR/) ☕
