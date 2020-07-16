@@ -13,7 +13,7 @@ Only **Promob** users would be able to use it, this project only works with the 
 * [Screenshots](#%EF%B8%8F-screenshots)
 * [Features](#-features)
 * [Technologies](#%EF%B8%8F-technologies-involved)
-* [Platforms](#-platforms)
+* [Platforms](#%EF%B8%8F-platforms)
 * [Database Management](#-database-management)
 * [Requirements to Run](#%EF%B8%8F-requirements-to-run)
 
