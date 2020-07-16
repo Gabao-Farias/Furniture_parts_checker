@@ -34,7 +34,7 @@ This is a starter project to get experience in the developping world, but I woul
 </p>
 
 ### 🥏 Features
- * You guarantee that the furniture will leave with no parts missing into the client's property
+ * You guarantee that the furniture will leave from factory with no parts missing into the client's property
  * There are some apps that works as a scanner, it could be useful in this case
   * [Andro Code Scanner](https://play.google.com/store/apps/details?id=az.android.remoteinput&hl=pt)
     * This app requires the installation of this one too, [Barcode Scanner](https://play.google.com/store/apps/details?id=com.google.zxing.client.android&hl=pt_BR)
