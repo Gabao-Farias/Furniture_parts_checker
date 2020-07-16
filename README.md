@@ -5,8 +5,7 @@
 </h1>
 
 <h3 align="center">⚠️ IMPORTANT! ⚠️</h3>
-
-Only **Promob** users would be able to use it, this project only works with the *manufactoring report* of Promob, but it can be improved for a new environment of data.
+<p align="center">Only <strong>Promob</strong> users would be able to use it, this project only works with the <em>manufactoring report</em> of Promob, but it can be improved for a new environment of data.</p>
 
 ## Summary
 * [About](#ℹ%EF%B8%8F-about)
